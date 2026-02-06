@@ -155,5 +155,3 @@ Data Science & Machine Learning Enthusiast
 This project is open-source — feel free to use and extend!
 
 ```
-
-egory-predictor-with-machine-learning-fastapi-and-streamlit-1c3334f330e8?utm_source=chatgpt.com "Building an Insurance Premium Category Predictor with ..."
