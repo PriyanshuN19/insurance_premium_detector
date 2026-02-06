@@ -153,5 +153,3 @@ Data Science & Machine Learning Enthusiast
 ## 📄 License
 
 This project is open-source — feel free to use and extend!
-
-```
