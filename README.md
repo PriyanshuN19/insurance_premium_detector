@@ -156,10 +156,4 @@ This project is open-source — feel free to use and extend!
 
 ```
 
----
-
-If you want, I can also generate **a banner image, badges (e.g., CI, Python version, FastAPI/Streamlit)**, and **live demo links** to make the README look even more professional 🚀.
-::contentReference[oaicite:2]{index=2}
-```
-
-[1]: https://medium.com/%40amansharmaaa9313/building-an-insurance-premium-category-predictor-with-machine-learning-fastapi-and-streamlit-1c3334f330e8?utm_source=chatgpt.com "Building an Insurance Premium Category Predictor with ..."
+egory-predictor-with-machine-learning-fastapi-and-streamlit-1c3334f330e8?utm_source=chatgpt.com "Building an Insurance Premium Category Predictor with ..."
